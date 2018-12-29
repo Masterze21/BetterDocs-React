@@ -16,4 +16,4 @@ style: dark
 ghcommentid: # DON'T CHANGE
 layout: product # DON'T CHANGE
 ---
-A compact and highly customizable theme.
+A compact and highly customizable theme. ⚠️does not work anymore⚠️
